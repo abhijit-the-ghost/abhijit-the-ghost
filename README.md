@@ -31,7 +31,7 @@ I’m open to collaborating on:
 
 ## 📫 How to Reach Me
 
-- 📷 Instagram: [@ig__ghost.0_7](https://instagram.com/ig__ghost.0_7)
+- 📷 Instagram: [@ig_abhijit.4](https://instagram.com/ig_abhijit.4)
 
 ---
 
