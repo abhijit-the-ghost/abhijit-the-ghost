@@ -2,6 +2,7 @@
 ### Frontend Engineer & Digital Artist
 
 <p align="left">
+  <a href="https://www.linkedin.com/in/abhijit-guragain/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://instagram.com/ig_abhijit.4"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
   <img src="https://img.shields.io/badge/Pronouns-He%20%2F%20Him-007acc?style=for-the-badge" alt="Pronouns"/>
 </p>
@@ -47,5 +48,5 @@ I am looking to collaborate on high-impact open-source initiatives or creative e
 ---
 
 ## 🎯 Beyond the Terminal
-* **Digital Art Studio:** When I'm not writing layouts, I design digital assets and explore spatial layouts.
-* **Motorsport & Athletics:** Avid follower of Formula 1 tracking data frameworks, and a regular on the weekend futsal pitches (with a clean nutmeg conversion rate).
+* 🎥 **YouTube:** [Check out my channel](YOUR_YOUTUBE_URL_HERE) where I stream and share content.
+* ⚽ **Futsal:** Regular enthusiast on the pitch for weekend games.
