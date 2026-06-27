@@ -1,55 +1,51 @@
-# 👋 Hi, I'm Abhijit Guragain (aka @abhijit-the-ghost)
+# 🪐 Abhijit Guragain
+### Frontend Engineer & Digital Artist
 
-Welcome to my digital space!
-
----
-
-## 🚀 About Me
-
-- 💻 Passionate Frontend Developer with a strong interest in the **MERN stack**
-- 🎨 I also explore the world of **digital art**
-- ⚽ Futsal enthusiast who lives for weekend games
-- 🍜 Food lover on a mission to try everything spicy
+<p align="left">
+  <a href="https://instagram.com/ig_abhijit.4"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
+  <img src="https://img.shields.io/badge/Pronouns-He%20%2F%20Him-007acc?style=for-the-badge" alt="Pronouns"/>
+</p>
 
 ---
 
-## 🔧 Currently Learning
-
-- ⚙️ **Node.js** and **Express.js**
-- ⚛️ Deep-diving into **React** to build scalable web apps
+## 🚀 Executive Summary
+I am a system-oriented **Frontend Developer** specializing in building modern, minimalistic, and highly responsive user interfaces. Blending structural engineering with a background in **digital art**, I focus on visual hierarchy, fluid micro-interactions, and pristine component design. I am currently scaling my capabilities into full-stack architecture within the MERN ecosystem.
 
 ---
 
-## 🤝 Let’s Collaborate
+## 🛠️ Technical Stack & Ecosystem
 
-I’m open to collaborating on:
-- MERN stack projects
-- Cool frontend ideas
-- Creative digital art collabs (if you're into that too!)
+### Frontend Architecture & Design
+🔹 **Core Languages:** JavaScript (ES6+), HTML5, CSS3  
+🔹 **Libraries & Frameworks:** React.js, Next.js  
+🔹 **State Management:** Zustand, Context API  
+🔹 **Styling Paradigms:** Modern CSS, Tailwind CSS, Responsive Wireframing  
 
----
+### Core Backend & Databases (Actively Scaling)
+🔸 **Runtime & Frameworks:** Node.js, Express.js  
+🔸 **Database Architecture:** MongoDB  
 
-## 📫 How to Reach Me
-
-- 📷 Instagram: [@ig_abhijit.4](https://instagram.com/ig_abhijit.4)
-
----
-
-## 😄 Pronouns
-He/Him
+### Environments & Developer Workflows
+🖥️ **Operating System:** Linux (Ubuntu LTS)  
+⚙️ **Tools & Shells:** Git, GitHub, Starship Shell Prompt, VS Code Configuration  
 
 ---
 
-## ⚡ Fun Fact
-
-I can **code, draw, and nutmeg** you in a futsal game—all in the same day 💥
+## ⚡ Active Architectural Focus
+* 🏗️ **Component Scalability:** Deep-diving into modular React design patterns to maximize reusability and performance metrics.
+* 🔗 **Full-Stack Integration:** Engineering robust RESTful APIs with Node.js and Express to bridge data pipelines with responsive frontends.
+* 📐 **Visual Ergonomics:** Refining user interfaces using pristine geometry, optimal typography hierarchy, and deliberate micro-animations.
 
 ---
 
-Thanks for stopping by! Let’s build something awesome together 👨‍💻
+## 🤝 Areas for Collaboration
+I am looking to collaborate on high-impact open-source initiatives or creative engineering squads focused on:
+* **MERN Stack Applications:** Scalable, end-to-end web products.
+* **UI/UX Components:** Complex micro-interactions, parallax layouts, or visual mockups.
+* **Creative Systems:** Projects bridging data pipelines with interactive canvas displays or digital artwork engines.
 
+---
 
-<!---
-abhijit-the-ghost/abhijit-the-ghost is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🎯 Beyond the Terminal
+* **Digital Art Studio:** When I'm not writing layouts, I design digital assets and explore spatial layouts.
+* **Motorsport & Athletics:** Avid follower of Formula 1 tracking data frameworks, and a regular on the weekend futsal pitches (with a clean nutmeg conversion rate).
