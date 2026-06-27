@@ -1,5 +1,5 @@
 # 🪐 Abhijit Guragain
-### Frontend Engineer & Digital Artist
+### Frontend Engineer & Digital Product Builder
 
 <p align="left">
   <a href="https://www.linkedin.com/in/abhijit-guragain/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"/></a>
@@ -10,43 +10,53 @@
 ---
 
 ## 🚀 Executive Summary
-I am a system-oriented **Frontend Developer** specializing in building modern, minimalistic, and highly responsive user interfaces. Blending structural engineering with a background in **digital art**, I focus on visual hierarchy, fluid micro-interactions, and pristine component design. I am currently scaling my capabilities into full-stack architecture within the MERN ecosystem.
+I am a system-oriented **Frontend Engineer** with 3+ years of professional production experience crafting high-performance, minimalistic, and responsive web systems. Blending structural frontend architecture with a sharp eye for visual ergonomics, I specialize in building robust component libraries, type-safe data layers, and intuitive user experiences. 
+
+* 🏢 Currently engineering frontend systems at **Insight Workshop**.
+* 🎓 Pursuing a Bachelor of Computer Applications (BCA) at Tribhuvan University (7th Sem).
 
 ---
 
 ## 🛠️ Technical Stack & Ecosystem
 
-### Frontend Architecture & Design
-🔹 **Core Languages:** JavaScript (ES6+), HTML5, CSS3  
+### Frontend Architecture & Layout Systems
+🔹 **Core Languages:** TypeScript, JavaScript (ES6+), HTML5, CSS3  
 🔹 **Libraries & Frameworks:** React.js, Next.js  
-🔹 **State Management:** Zustand, Context API  
-🔹 **Styling Paradigms:** Modern CSS, Tailwind CSS, Responsive Wireframing  
+🔹 **Styling Paradigms:** Tailwind CSS, Shadcn UI, DaisyUI, Glassmorphism, Responsive Wireframing  
 
-### Core Backend & Databases (Actively Scaling)
-🔸 **Runtime & Frameworks:** Node.js, Express.js  
-🔸 **Database Architecture:** MongoDB  
+### State, Forms & Data Management
+📦 **Global State:** Zustand, Context API  
+🔄 **Data Fetching & Server State:** TanStack Query (React Query)  
+🛡️ **Forms & Validation:** React Hook Form, Zod Runtime Validation  
 
-### Environments & Developer Workflows
-🖥️ **Operating System:** Linux (Ubuntu LTS)  
-⚙️ **Tools & Shells:** Git, GitHub, Starship Shell Prompt, VS Code Configuration  
+### Tooling, Runtimes & Dev Workflows
+⚙️ **Runtimes & Package Managers:** Bun, Node.js, NPM  
+🖥️ **Environment & Shell:** Linux (Ubuntu LTS), Git, GitHub, Starship Prompt  
+🚀 **Build Tools & Editors:** Vite, VS Code Configuration  
 
 ---
 
-## ⚡ Active Architectural Focus
-* 🏗️ **Component Scalability:** Deep-diving into modular React design patterns to maximize reusability and performance metrics.
-* 🔗 **Full-Stack Integration:** Engineering robust RESTful APIs with Node.js and Express to bridge data pipelines with responsive frontends.
-* 📐 **Visual Ergonomics:** Refining user interfaces using pristine geometry, optimal typography hierarchy, and deliberate micro-animations.
+## 🏗️ What I'm Building & Scaling
+* 📦 **Oasis UI (In Progress):** Designing and engineering a modular, "copy-and-paste" custom UI component library focusing on developer-grade aesthetics, lightweight bundle footprints, and clean micro-interactions.
+* 🛡️ **Type-Safe Ecosystems:** Deep-diving into end-to-end data integrity by marrying compile-time TypeScript safety with strict runtime Zod schemas.
+* 🎨 **Visual Ergonomics:** Crafting advanced, interactive UI layouts—including 3D layered parallax card stacks and interactive player components—that prioritize pristine alignment and geometry.
+
+---
+
+## 📂 Featured Projects & Production Work
+* **Educational Ecosystems:** Contributed heavily to the development of the *NorthStar School Management System* and *Siddhartha Model School Website*, engineering dense data tables, interactive fee matrices, and custom bill preview modals.
+* **Interactive Web Apps:** Built applications like *Levelup*, *LearnWithSpark*, and *Aninfo*, optimizing frontend performance and state propagation.
+* **Academic Architectures:** Developed structured *Rental Management* and *Task Management* systems during my BCA coursework, grounding my frontend skills in solid relational logic.
 
 ---
 
 ## 🤝 Areas for Collaboration
-I am looking to collaborate on high-impact open-source initiatives or creative engineering squads focused on:
-* **MERN Stack Applications:** Scalable, end-to-end web products.
-* **UI/UX Components:** Complex micro-interactions, parallax layouts, or visual mockups.
-* **Creative Systems:** Projects bridging data pipelines with interactive canvas displays or digital artwork engines.
+I’m always looking to sync with creative developers, designers, and engineering squads on:
+* **Custom UI Infrastructure:** Open-source component libraries, component design systems, or creative CodePen layouts.
+* **Modern React Architectures:** Scalable products leveraging tight state management (Zustand) and robust server-state syncing (TanStack Query).
+* **Creative Systems:** Projects intersecting data pipelines with minimalistic, fluid interfaces.
 
 ---
 
 ## 🎯 Beyond the Terminal
-* 🎥 **YouTube:** [Check out my channel](YOUR_YOUTUBE_URL_HERE) where I stream and share content.
-* ⚽ **Futsal:** Regular enthusiast on the pitch for weekend games.
+* ⚽ **Futsal:** Regular enthusiast on the pitch for weekend competitive games.
